@@ -15,5 +15,9 @@
     <forum>http://forum.kodi.tv/showthread.php?tid=239378</forum>
     <source>https://github.com/vonH/plugin.video.iplayerwww</source>
     <disclaimer lang="en">This add-on is a front end to the BBC iPlayer website. It is not an official BBC product. A UK TV Licence is required to watch the live, catch-up, or on-demand TV content.</disclaimer>
+	<assets>
+        <icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+    </assets>
   </extension>
 </addon>
